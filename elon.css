@@ -1,0 +1,16 @@
+body {
+    background-color: wheat;
+    color: darkred;
+    font-size: larger;
+}
+
+.eleje {
+    text-align: center;
+    font-size: x-large;
+}
+
+.elon {
+    width: 280px;
+    height: 360px;
+    float: right;
+}
